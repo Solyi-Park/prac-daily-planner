@@ -1,0 +1,24 @@
+{
+  "todos": [
+    {
+      "id": "2622bd42-19ea-7eab-920f-f240f5715071",
+      "content": "222",
+      "isChecked": false
+    },
+    {
+      "id": "63e292d9-9c0f-6c61-aa3f-faea4bf344b8",
+      "content": "ㅋㅋㅋㅋ",
+      "isChecked": true
+    },
+    {
+      "id": "724deb53-2388-e2b9-b71b-fd6adcb3d8f9",
+      "content": "ㅎㅎㅎ",
+      "isChecked": true
+    },
+    {
+      "id": "dd71d5b2-ddcb-0b87-9b10-f16d59ee17da",
+      "content": "1",
+      "isChecked": true
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "React 쿼리 연습하기",
+      "isDone": false,
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "content": "Daily Planner 만들기!",
+      "isDone": false,
+      "isChecked": false
+    },
+    {
+      "id": "62e0cf75-a368-01dc-68bd-48075ca7cca9",
+      "content": "타임어택 한번 더하기",
+      "isChecked": false
+    }
+  ]
+}

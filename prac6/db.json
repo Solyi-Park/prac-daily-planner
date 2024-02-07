@@ -1,0 +1,19 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "할일",
+      "isChecked": false
+    },
+    {
+      "id": "90d3a577-ffb9-060a-7be6-ea53c384c4c9",
+      "content": "111",
+      "isChecked": true
+    },
+    {
+      "id": "3610944b-1890-7d80-8fa1-059ba4f361e4",
+      "content": "11111",
+      "isChecked": false
+    }
+  ]
+}

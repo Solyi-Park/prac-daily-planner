@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "content": "타임어택ㅋ",
+      "isChecked": true
+    },
+    {
+      "id": "f14db497-0fff-9a77-5526-07c9c0d8e02c",
+      "content": "기존방식 타임어택1",
+      "isChecked": false
+    },
+    {
+      "id": "ffbc2609-e3ae-999a-ac80-4bda0f4cd4f5",
+      "content": "새방식1",
+      "isChecked": false
+    },
+    {
+      "id": "95c266e4-fed2-d270-f83a-77b1ec614599",
+      "content": "컨텍스트 1번",
+      "isChecked": false
+    },
+    {
+      "id": "4ee84f71-8cd9-a9f3-2aca-285aac9bb000",
+      "content": "파이어스토어 1번",
+      "isChecked": false
+    },
+    {
+      "id": "c1f9202e-61e5-2717-e55e-28f5b460509f",
+      "content": "숙련주차 강의 듣기",
+      "isChecked": false
+    }
+  ]
+}
